@@ -86,3 +86,20 @@ existential -> at least one
 universal -> all
 All <blanks> are <something>. ->  universal(x)(A(x) -> B(x) )
 There is a <blank> that is <something>. -> existential(x) (A(x) and B(x))
+
+
+
+### Direct Proof
+To prove a statement of the form (∀x)(P(x) → Q(x)), begin
+your proof with a sentence of the form Let x be [an element of the domain], and suppose P(x).
+A direct proof is then a sequence of justified conclusions culminating in Q(x)
+
+
+### Proof by contrapositive
+To prove a statement of the form (∀x)(P(x) → Q(x)), begin your proof with a sentence of the form
+Let x be [an element of the domain], and suppose ¬Q(x). 
+A proof by contraposition is then a sequence of justified conclusions culminating
+in ¬P(x).
+
+### Proof by contradiction
+* begin proof with: Suppose, to the contrary, that ¬A. Then argue, as in a direct proof, until you reach a contradiction
