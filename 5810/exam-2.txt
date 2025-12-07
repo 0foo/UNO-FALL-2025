@@ -1,0 +1,706 @@
+
+8
+
+Automatic Zoom
+575
+21 Industrial Ecology for Waste 
+Minimization, Utilization, 
+and Treatment
+21.1 INTRODUCTION
+Chapter  20  dealt  with  the  nature  and  production  of  hazardous  wastes.  Clearly,  there  have  been 
+severe hazardous waste problems in the United States and throughout the world. Since the 1970s, 
+much has been done to reduce and clean up hazardous wastes. Legislation dealing with wastes has 
+been passed, regulations have been put forth and re! ned, and numerous waste sites have been char-
+acterized  and  treated.  Many  of  the ! nancial  resources  expended  on  hazardous  wastes  have  been 
+devoted  to  litigation  in  attempts  to  establish  the  identities  and  contributions  of  various  parties  to 
+waste problems. This chapter discusses how environmental chemistry, industrial ecology, and green 
+chemistry can be applied to hazardous waste management to develop measures by which chemical 
+wastes can be minimized, recycled, treated, and disposed. In descending order of desirability, haz-
+ardous waste management attempts to accomplish the following:
+Do not produce it• 
+If making it cannot be avoided, produce only minimum quantities• 
+Recycle it• 
+If  it  is  produced  and  cannot  be  recycled,  treat  it,  preferably  in  a  way  that  makes  it • 
+nonhazardous
+If it cannot be rendered nonhazardous, dispose of it in a safe manner• 
+Once it is disposed, monitor it for leaching and other adverse effects• 
+The effectiveness of a hazardous waste management system is a measure of how well it reduces 
+the quantities and hazards of wastes. As shown in Figure 21.1, the best management option consists 
+of measures that prevent generation of wastes. Next in order of desirability is recovery and recycling 
+of  waste  constituents.  Next  is  destruction  and  treatment  with  conversion  to  nonhazardous  waste 
+forms. The least desirable option is disposal of hazardous materials in storage or land! ll.
+21.2 WASTE REDUCTION AND MINIMIZATION
+During recent years, substantial efforts have been made in reducing the quantities of wastes and, 
+therefore, the burden of dealing with wastes. Much of this effort has been the result of legislation 
+and regulations restricting wastes, along with the resulting concerns over possible legal actions and 
+lawsuits.  In  many  cases—and  ideally  in  all—minimizing  the  quantities  of  wastes  produced  is 
+simply  good  business.  Wastes  are  materials,  materials  have  value  and,  therefore,  all  materials 
+should be used for some bene! cial purpose and not discarded as wastes, usually at a high cost for 
+waste disposal.
+576 Environmental Chemistry
+Industrial ecology is all about the ef! cient use of materials. Therefore, by its nature, a system of 
+industrial  ecology  is  also  a  system  of  waste  reduction  and  minimization.1  In  reducing  quantities 
+of wastes, it is important to take the broadest possible view. This is because dealing with one waste 
+problem  in  isolation  may  simply  create  another.  Early  efforts  to  control  air  and  water  pollution 
+resulted  in  problems  from  hazardous  wastes  isolated  from  industrial  operations.  A  key  aspect  of 
+industrial ecology is its approach based upon industrial systems as a whole, making such systems 
+the best means of dealing with wastes by avoiding their production.
+Many hazardous waste problems can be avoided at early stages by waste reduction (cutting down 
+quantities of wastes from their sources) and waste minimization (utilization of treatment processes 
+that reduce the quantities of wastes requiring ultimate disposal).2
+Ways in which quantities of wastes can be reduced include source reduction, waste separation 
+and concentration, resource recovery, and waste recycling. The most effective approaches to mini-
+mizing wastes center around careful control of manufacturing processes, taking into consideration 
+discharges and the potential for waste minimization at every step of manufacturing. Viewing the 
+process as a whole (as outlined for a generalized chemical manufacturing process in Figure 21.2) 
+often enables crucial identi! cation of the source of a waste, such as a raw material impurity, cata-
+lyst, or process solvent. Once a source is identi! ed, it is much easier to take measures to eliminate 
+or reduce the waste. The most effective approach to minimizing wastes is to emphasize waste mini-
+mization as an integral part of plant design.
+Modi! cations  of  the  manufacturing  process  can  yield  substantial  waste  reduction.  Some  such 
+modi! cations  are  of  a  chemical  nature.  Changes  in  chemical  reaction  conditions  can  minimize 
+production of by-product hazardous substances. In some cases, potentially hazardous catalysts, such 
+as those formulated from toxic substances, can be replaced by catalysts that are nonhazardous or 
+that  can  be  recycled  rather  than  discarded.  Wastes  can  be  minimized  by  volume  reduction,  for 
+example, through dewatering and drying sludge.
+Manufacturing 
+operation, potential 
+generation of wastes 
+Prevent waste 
+generation 
+Wastes Wastes 
+generated 
+Wastes 
+treated Solids 
+Aqueous
+Hazardous 
+wastes in secure 
+chemical landfill 
+Publicly owned 
+treatment 
+works (POTW) 
+for water 
+Sanitary, construction, 
+or industrial landfill 
+1 
+3 4 
+2 
+Recycled
+FIGURE 21.1 Order of effectiveness of waste treatment management options. The darkened circles indicate 
+the degree of effectiveness from the most desirable (1) to the least (4).
+Industrial Ecology for Waste Minimization, Utilization, and Treatment 577
+Many kinds of waste streams are candidates for minimization. As examples, such waste streams 
+identi! ed  at  U.S.  Government  federal  facilities  have  included  solvents  used  for  cleaning  and 
+degreasing,  spent  motor  oil  from  gasoline  and  diesel  engines,  leftover  and  waste  paint  thinners, 
+antifreeze/antiboil engine cooling formulations, batteries, inks, exposed photographic ! lm, 
+and pathology wastes. The sources of the wastes are as varied as the waste streams themselves. 
+Motor pool maintenance garages generate used motor oil and spent coolants. Hospitals, clinics, 
+and medical laboratories generate pathology wastes. Aircraft maintenance depots where aircraft 
+and their parts are cleaned, chemically stripped of paint and coatings, repainted, and electroplated 
+generate  large  quantities  of  ef" uents  including  organic  materials.  Other  facilities  generating 
+wastes include equipment and arms maintenance facilities, photo developing and printing labora-
+tories, paint shops, and arts and crafts shops.
+A crucial part of the process for reducing and minimizing wastes is the development of a mate-
+rial balance, which is an integral part of the practice of industrial ecology. Such a balance addresses 
+various  aspects  of  waste  streams,  including  sources,  identi! cation,  and  quantities  of  wastes  and 
+methods and costs of handling, treatment, recycling, and disposal. Priority waste streams can then 
+be subjected to detailed process investigations to obtain the information needed to reduce wastes.
+There are encouraging signs of progress in the area of waste minimization. All major companies 
+have initiated programs to minimize quantities of wastes produced. Typically, more than 97% of oil-
+based petroleum re! nery waste sludges that used to be discarded to land! ll are now subjected to coking 
+to yield useful hydrocarbon liquids and gases and coke, a solid carbon material with commercial value. 
+Similar successes have been achieved with what were once waste products in a number of industries.
+21.3 RECYCLING
+Wherever possible, recycling and reuse should be accomplished on-site because it avoids having to 
+move wastes and because a process that produces recyclable materials is often the most likely to have 
+use for them. The four broad areas in which something of value may be obtained from wastes are the 
+following:
+Direct  recycle  as  raw  material  to  the  generator,  as  with  the  return  to  feedstock  of  raw • 
+materials not completely consumed in a synthesis process
+Transfer as a raw material to another process; a substance that is a waste product from one • 
+process may serve as a raw material for another, sometimes in an entirely different industry
+Reclaimed 
+by-products Solids and 
+sludges 
+Wastewater 
+Recycle 
+Discharges that may 
+require treatment 
+Reactants Contaminants (impurities) 
+Catalysts 
+Atmospheric 
+emissions 
+Reaction media (water, organic solvents) Manufacturing 
+process 
+Products and 
+useful by-products 
+FIGURE 21.2 Chemical manufacturing process from the viewpoint of discharges and waste minimization.
+578 Environmental Chemistry
+Utilization for pollution control or waste treatment, such as use of waste alkali to neutralize • 
+waste acid
+Recovery of energy, for example, from the incineration of combustible hazardous wastes• 
+21.3.1 EXAMPLES OF RECYCLING
+Recycling of scrap industrial impurities and products occurs on a large scale with a number of dif-
+ferent materials. Most of these materials are not hazardous but, as with most large-scale industrial 
+operations, their recycling may involve the use or production of hazardous substances. Some of the 
+more important examples are the following:
+Ferrous metals•  composed primarily of iron and used largely as feedstock for electric-arc 
+furnaces
+Nonferrous metals• , including aluminum (which ranks next to iron in terms of quantities 
+recycled), copper and copper alloys, zinc, lead, cadmium, tin, silver, and mercury
+Metal compounds• , such as metal salts
+Inorganic  substances•   including  alkaline  compounds  (such  as  sodium  hydroxide  used  to 
+remove sulfur compounds from petroleum products), acids (steel pickling liquor where impu-
+rities permit reuse), and salts (e.g., ammonium sulfate from coal coking used as fertilizer)
+Glass• , which makes up about 10% of municipal refuse
+Paper• , commonly recycled from municipal refuse
+Plastic• ,  consisting  of  a  variety  of  moldable  polymeric  materials  and  composing  a  major 
+constituent of municipal wastes
+Rubber• 
+Organic substances• , especially solvents and oils, such as hydraulic and lubricating oils
+Catalysts•  from chemical synthesis or petroleum processing
+Materials with • agricultural uses, such as waste lime or phosphate-containing sludges used 
+to treat and fertilize acidic soils
+21.3.2 WASTE OIL UTILIZATION AND RECOVERY
+Waste  oil  generated  from  lubricants  and  hydraulic " uids  is  one  of  the  more  commonly  recycled 
+materials.  Annual  production  of  waste  oil  in  the  United  States  is  of  the  order  of  4  billion  liters. 
+Around half of this amount is burned as fuel and lesser quantities are recycled or disposed as waste. 
+The collection, recycling, treatment, and disposal of waste oil are all complicated by the fact that it 
+comes from diverse, widely dispersed sources and contains several classes of potentially hazardous 
+contaminants. These are divided between organic constituents (PAHs, chlorinated hydrocarbons) 
+and inorganic constituents (aluminum, chromium, and iron from wear of metal parts; barium and 
+zinc from oil additives; lead from leaded gasoline).
+21.3.2.1 Recycling Waste Oil
+The processes used to convert waste oil to a feedstock hydrocarbon liquid for lubricant formulation 
+are illustrated in Figure 21.3. The ! rst of these uses distillation to remove water and light ends that 
+have  come  from  condensation  and  contaminant  fuel.  The  second,  or  processing,  step  may  be  a 
+vacuum distillation in which the three products are oil for further processing, a fuel oil cut, and a 
+heavy residue. The processing step may also employ treatment with a mixture of solvents including 
+isopropyl and butyl alcohols and methylethyl ketone to dissolve the oil and leave contaminants as a 
+sludge; or contact with sulfuric acid to remove inorganic contaminants followed by treatment with 
+clay to take out acid and contaminants that cause odor and color. The third step shown in Figure 21.3 
+employs vacuum distillation to separate lubricating oil stocks from a fuel fraction and heavy resi-
+due. This phase of treatment may also involve hydro! nishing, treatment with clay, and ! ltration.
+Industrial Ecology for Waste Minimization, Utilization, and Treatment 579
+21.3.2.2 Waste Oil Fuel
+For economic reasons, waste oil that is to be used for fuel is given minimal treatment of a physical 
+nature, including settling, removal of water, and ! ltration. Metals in waste fuel oil become highly 
+concentrated in its " y ash, which may be hazardous.
+21.3.3 WASTE SOLVENT RECOVERY AND RECYCLE
+The recovery and recycling of waste solvents has some similarities to the recycling of waste oil and 
+is also an important enterprise. Among the many solvents listed as hazardous wastes and recoverable 
+from wastes are dichloromethane, tetrachloroethylene, trichloroethylene, 1,1,1-trichloroethane, 
+benzene,  liquid  alkanes,  2-nitropropane,  methylisobutyl  ketone,  and  cyclohexanone.  For  rea-
+sons  of  both  economics  and  pollution  control,  many  industrial  processes  that  use  solvents  are 
+equipped  for  solvent  recycle.  The  basic  scheme  for  solvent  reclamation  and  reuse  is  shown  in 
+Figure 21.4.
+Because  of  their  impact  on  material  use  and  environmental  effects,  solvents  are  given  a 
+high  priority  in  the  practice  of  green  chemistry.  A  number  of  operations  are  used  in  solvent 
+recovery and puri! cation. Entrained solids are removed by settling, ! ltration, or centrifugation. 
+Drying agents may be used to remove water from solvents, and various adsorption techniques 
+and  chemical treatment may be required to free the solvent from speci! c impurities. Fractional 
+distillation,  often  requiring  several  distillation  steps,  is  the  most  important  operation  in 
+ solvent  puri! cation  and  recycling.  It  is  used  to  separate  solvents  from  impurities,  water,  and 
+other solvents.
+Waste oil A dditives 
+Removal of
+contaminant fuel
+and water
+Processing Final polishing 
+Water Light 
+hydrocarbons 
+Spent 
+by-products 
+Lubricating 
+oil stocks 
+By-products 
+FIGURE 21.3 Major steps in reprocessing waste oil.
+Manufacturing, 
+cleaning, extraction, 
+or other process 
+By-products 
+Separation 
+Product 
+Solvent 
+purification 
+Recycled solvent 
+Makeup 
+solvent 
+FIGURE 21.4 Overall process for recycling solvents.
+580 Environmental Chemistry
+21.3.4 RECOVERY OF WATER FROM WASTEWATER
+It is often desirable to reclaim water from wastewater. This is especially true in regions where water 
+is  in  short  supply.  Even  where  water  is  abundant,  water  recycling  is  desirable  to  minimize  the 
+amount of water that is discharged.
+A little more than half of the water used in the United States is consumed by agriculture, primarily 
+for irrigation. Steam-generating power plants consume about one-fourth of the water, and other uses, 
+including manufacturing and domestic uses, account for the remainder. 
+The three major manufacturing consumers of water are chemicals and allied products, paper and 
+allied products, and primary metals. These industries use water for cooling, processing, and boilers. 
+Their potential for water reuse is high and their total consumption of water is projected to drop in 
+future years as recycling becomes more common. 
+The  degree  of  treatment  required  for  reuse  of  wastewater  depends  upon  its  application.  Water 
+used for industrial quenching and washing usually requires the least treatment, and wastewater from 
+some other processes may be suitable for these purposes without additional treatment. At the other 
+end  of  the  scale,  boiler  makeup  water,  potable  (drinking)  water,  water  used  to  directly  recharge 
+aquifers, and water that people will directly contact (in boating, water skiing, and similar activities) 
+must be of very high quality.
+The treatment processes applied to wastewater for reuse and recycle depend upon both the char-
+acteristics  of  the  wastewater  and  its  intended  uses.  Solids  can  be  removed  by  sedimentation  and 
+! ltration. BOD is reduced by biological treatment, including trickling ! lters and activated sludge 
+treatment. For uses conducive to the growth of nuisance algae, nutrients may have to be removed. 
+The easiest of these to handle is nutrient phosphate, which can be precipitated with lime. Nitrogen 
+can be removed by denitri! cation processes.
+Two of the major problems with industrial water recycling are heavy metals and dissolved toxic 
+organic species. Heavy metals may be removed by ion exchange or precipitation by base or sul! de. 
+The organic species are usually removed with activated carbon ! ltration. Some organic species are 
+biologically degraded by bacteria in biological wastewater treatment.
+One of the greater sources of potentially hazardous wastewater arises from oil/water separators 
+at wash racks where manufactured parts and materials are washed. Because of the use of surfactants 
+and  solvents  in  the  washwater,  the  separated  water  tends  to  contain  emulsi! ed  oil  that  is  incom-
+pletely separated in an oil/water separator. In addition, the sludge that accumulates at the bottom of 
+the  separator  may  contain  hazardous  constituents,  including  heavy  metals  and  some  hazardous 
+organic  constituents.  Several  measures  that  include  the  incorporation  of  good  industrial  ecology 
+practice  may  be  taken  to  eliminate  these  problems.  One  such  measure  is  to  eliminate  the  use  of 
+surfactants and solvents that tend to contaminate the water, and to use surfactants and solvents that 
+are  more  amenable  to  separation  and  treatment.  Another  useful  measure  is  to  treat  the  water  to 
+remove  harmful  constituents  and  recycle  it.  This  not  only  conserves  water  and  reduces  disposal 
+costs, but also enables recycling of surfactants and other additives.
+The ultimate water quality is achieved by processes that remove solutes from water, leaving pure 
+H2O. A combination of activated carbon treatment to remove organics, cation exchange to remove 
+dissolved cations, and anion exchange for dissolved anions can provide very high quality water from 
+wastewater.  Reverse  osmosis  (see  Chapter  8)  can  accomplish  the  same  objective.  However,  these 
+processes generate spent activated carbon, ion-exchange resins that require regeneration, and con-
+centrated brines (from reverse osmosis) that require disposal, all of which have the potential to end 
+up as hazardous wastes.
+21.4 PHYSICAL METHODS OF WASTE TREATMENT
+This  section  addresses  predominantly  physical  methods  for  waste  treatment  and  the  following 
+ section addresses methods that utilize chemical processes. It should be kept in mind that most waste 
+Industrial Ecology for Waste Minimization, Utilization, and Treatment 581
+treatment measures have both physical and chemical aspects. The appropriate treatment technology 
+for hazardous wastes obviously depends upon the nature of the wastes, which may vary in physical 
+form,  density,  chemical  composition,  solubility  in  water,  solubility  in  organic  solvents,  volatility, 
+and other characteristics.
+As shown in Figure 21.5, waste treatment may occur at three major levels—primary, secondary, 
+and polishing—somewhat analogous to the treatment of wastewater (see Chapter 8). Primary treat-
+ment is usually preparation for further treatment, although it can result in the removal of by-products 
+and reduction of the quantity and hazard of the waste. Secondary treatment detoxi! es, destroys, and 
+removes hazardous constituents. Polishing usually refers to treatment of water removed from wastes 
+before discharge. The term may also apply to the treatment of other products so that they may be 
+safely discharged or recycled.
+21.4.1 METHODS OF PHYSICAL TREATMENT
+Knowledge of the physical behavior of wastes has been used to develop various unit operations for 
+waste treatment that are based upon physical properties. These operations include the following:
+Phase separation: • 
+ Filtration 
+ Sedimentation 
+ Flotation 
+Phase transfer:• 
+ Extraction 
+ Sorption 
+Phase transition: • 
+ Distillation 
+ Evaporation 
+ Physical precipitation 
+Primary treatment Polishing 
+Secondary treatment 
+Dissolution 
+Blending 
+Slurrying 
+Phase separation 
+Filtration 
+Activated carbon sorption 
+Reverse osmosis 
+Neutralization 
+Oxidation/reduction 
+Precipitation 
+Adsorption 
+Extraction 
+Emulsion breaking 
+Coagulation 
+Sedimentation 
+Centrifugation 
+Air flotation 
+Sludge dewatering 
+Disposal, resource 
+recovery 
+Disposal, resource 
+recovery 
+Discharge, 
+recycle 
+Wastes in 
+FIGURE 21.5 Major phases of waste treatment.
+582 Environmental Chemistry
+Membrane separations:• 
+ Reverse osmosis
+ Hyper- and ultra! ltration
+21.4.1.1 Phase Separations
+The  most  straightforward  means  of  physical  treatment  involves  separation  of  components  of  a 
+mixture that are already in two different phases. Sedimentation and decanting are easily accom-
+plished with simple equipment. In many cases, the separation must be aided by mechanical means, 
+particularly  ! ltration   or  centrifugation.  Flotation  is  used  to  bring  suspended  organic  matter  or  
+! nely  divided  particles  to  the  surface  of  a  suspension.  In  the  process  of  dissolved  air " otation 
+(DAF), air is dissolved in the suspending medium under pressure and comes out of solution when 
+the  pressure  is  released  as  minute  air  bubbles  attached  to  suspended  particles,  which  causes  the 
+particles to " oat to the surface.
+An important and often dif! cult waste treatment step is emulsion breaking in which colloidal-
+sized emulsions are caused to aggregate and settle from suspension. Agitation, heat, acid, and the 
+addition  of  coagulants  consisting  of  organic  polyelectrolytes,  or  inorganic  substances  such  as  an 
+aluminum salt, may be used to cause the particles to stick together and settle out.
+21.4.1.2 Phase Transition
+A second major class of physical separation is that of phase transition in which a material changes 
+from one physical phase to another. It is best exempli! ed by distillation, which is used in treating 
+and recycling solvents, waste oil, aqueous phenolic wastes, xylene contaminated with paraf! n from 
+histological laboratories, and mixtures of ethylbenzene and styrene. Distillation produces distilla-
+tion bottoms (still bottoms), which are often hazardous and polluting. These consist of unevaporated 
+solids, semisolid tars, and sludges from distillation. Speci! c examples are distillation bottoms from 
+the  production  of  acetaldehyde  from  ethylene  (hazardous  waste  number  K009)  and  still  bottoms 
+from toluene reclamation distillation in the production of disulfoton (K036). The land! ll disposal of 
+these and other hazardous distillation bottoms, once widely practiced, is now severely limited.
+Evaporation  is  usually  employed  to  remove  water  from  an  aqueous  waste  to  concentrate  it. 
+A special case of this technique is thin-! lm evaporation in which volatile constituents are removed 
+by heating a thin layer of liquid or sludge waste spread on a heated surface.
+Drying is removal of solvent or water from a solid or semisolid (sludge) or the removal of solvent 
+from a liquid or suspension—is a very important operation because water is often the major con-
+stituent of waste products, such as sludges obtained from emulsion breaking. In freeze drying, the 
+solvent, usually water, is sublimed from a frozen material. Hazardous waste solids and sludges are 
+dried  to  reduce  the  quantity  of  waste,  to  remove  solvent  or  water  that  might  interfere  with  sub-
+sequent treatment processes, and to remove hazardous volatile constituents. Dewatering can often 
+be improved with addition of a ! lter aid, such as diatomaceous Earth, during the ! ltration step.
+Stripping is a means of separating volatile components from less volatile ones in a liquid mixture 
+by the partitioning of the more volatile materials to a gas phase of air or steam (steam stripping). 
+The gas phase is introduced into the aqueous solution or suspension containing the waste in a strip-
+ping  tower  that  is  equipped  with  trays  or  packed  to  provide  maximum  turbulence  and  contact 
+between the liquid and gas phases. The two major products are condensed vapor and a stripped bot-
+toms residue. Examples of two volatile components that can be removed from water by air stripping 
+are benzene and dichloromethane. Air stripping can also be used to remove ammonia from water 
+that has been treated with a base to convert ammonium ion to volatile ammonia.
+Physical precipitation is used here as a term to describe processes in which a solid forms from a 
+solute in solution as a result of a physical change in the solution, as compared to chemical precipita-
+tion  (see  Section  21.5)  in  which  a  chemical  reaction  in  solution  produces  an  insoluble  material. 
+Cooling the solution, evaporation of solvent, or alteration of solvent composition may cause physical 
+precipitation.  The  most  common  type  of  physical  precipitation  by  solvent  alteration  occurs  when 
+Industrial Ecology for Waste Minimization, Utilization, and Treatment 583
+a water-miscible organic solvent is added to an aqueous solution so that the solubility of a salt is 
+lowered below its concentration in the solution.
+21.4.1.3 Phase Transfer
+Phase transfer consists of the transfer of a solute in a mixture from one phase to another. An import-
+ant type of phase transfer process is solvent extraction in which a substance is transferred from solu-
+tion  in  one  solvent  (usually  water)  to  another  (usually  an  organic  solvent)  without  any  chemical 
+change. Solvents may be used for leaching substances from solids or sludges. Solvent extraction and 
+the major terms applicable to it are summarized in Figure 21.6. The same terms and general princi-
+ples apply to leaching. A major application of solvent extraction to waste treatment has been in the 
+removal of phenol from by-product water produced in coal coking, petroleum re! ning, and chemical 
+syntheses that involve phenol.
+One of the more promising approaches to solvent extraction and leaching of hazardous wastes is 
+the  use  of  supercritical " uids,  most  commonly  CO2,  as  extraction  solvents.  A  supercritical " uid 
+is one that has characteristics of both liquid and gas and consists of a substance above its critical 
+temperature and pressure (31.1∞C and 73.8 atm, respectively, for CO2). After a substance has been 
+extracted from a waste into a supercritical " uid at high pressure, the pressure can be released, result-
+ing in separation of the substance extracted. The " uid can then be compressed again and recircu-
+lated  through  the  extraction  system.  Some  possibilities  for  treatment  of  hazardous  wastes  by 
+extraction with supercritical CO2 include removal of organic contaminants from wastewater, extrac-
+tion of organohalide pesticides from soil, extraction of oil from emulsions used in aluminum and 
+steel processing, and regeneration of spent activated carbon. Waste oils contaminated with PCBs, 
+metals, and water can be puri! ed using supercritical ethane.
+Transfer of a substance from a solution to a solid phase is called sorption. The most important 
+sorbent  is  activated  carbon,  which,  in  some  cases,  is  used  for  complete  treatment  of  hazardous 
+wastes  as  well  as  pretreatment  of  waste  streams  going  into  processes  such  as  reverse  osmosis  to 
+improve treatment ef! ciency and reduce fouling. Ef" uents from other treatment processes, such as 
+biological treatment of degradable organic solutes in water, can be polished with activated carbon. 
+Activated carbon sorption is most effective for removing from water those hazardous waste materi-
+als  that  are  poorly  water-soluble  and  that  have  high  molar  masses,  such  as  xylene,  naphthalene 
+(U165), chlorinated hydrocarbons, phenol (U188), and aniline. Activated carbon does not work well 
+for organic compounds that are highly water-soluble or polar.
+Solids other than activated carbon can be used for sorption of contaminants from liquid wastes. 
+These  include  synthetic  resins  composed  of  organic  polymers  and  mineral  substances.  Of  the 
+ latter,  clay  is  employed  to  remove  impurities  from  waste  lubricating  oils  in  some  oil  recycling 
+processes.
+Feed of solution or other
+matrix from which
+material is extracted
+Solvent into which material
+is extracted
+Raffinate of matrix
+from which material
+has been extracted
+Extract of extracted
+material in solventExtraction 
+reactor 
+FIGURE 21.6 Outline of solvent extraction/leaching process with important terms underlined.
+
+
+
+
+1
+
+Automatic Zoom
+453
+17 Green Chemistry and 
+Industrial Ecology
+17.1 CHANGING THE BAD OLD WAYS
+The chemical industry has come a long way in the approximately half century since the following 
+was stated in American Chemical Industry—A History, by W. Haynes, Van Nostrand Publishers, 
+1954: “By sensible defi nition, any by-product of a chemical operation for which there is no profi table 
+use is a waste. The most convenient, least expensive way of disposing of said waste—up the chim-
+ney or down the river—is the best.” Fortunately, this barbaric attitude toward waste has been long 
+regarded as completely wrong and unacceptable. Environmental chemistry is largely involved with 
+the problems caused by improper discharges of pollutants from the anthrosphere to the other envi-
+ronmental  spheres.  This  chapter  deals  largely  with  ways  in  which  such  problems  can  be  avoided 
+before environmental problems develop.
+In  recognition  of  the  environmental  effects  of  the  chemical  industry  and  related  enterprises, 
+many laws have been passed and implemented throughout the world to regulate chemical processes 
+and  products.  These  laws  have  emphasized  dealing  with  environmental  problems  after  they  have 
+occurred, a “command and control” approach. Compliance with environmental laws over the last 
+several decades has involved the expenditure of more than a trillion dollars worldwide. These laws 
+have unquestionably had very positive effects on environmental quality, have been effective in help-
+ing  to  save  some  species  from  extinction,  and  have  improved  human  health  and  quality  of  life. 
+However, necessary as it is, the regulatory approach to enhancing environmental quality has some 
+defi nite defi ciencies. Its effective implementation and maintenance have required legions of regula-
+tors and have resulted in the expenditure of vast sums for litigation that could be better used directly 
+to enhance environmental quality. Especially from the viewpoint of those regulated, some regula-
+tions have appeared to be petty, poorly cost effective, and, in the worst cases, counterproductive.
+A modern industrial society will always require regulations of various kinds to maintain envi-
+ronmental quality and even to ensure its continued existence. But, are there alternatives to some of 
+the regulations? Most desirable are alternatives that help to ensure environmental quality by “natu-
+ral,”  self-regulating  means.  In  recent  years,  it  has  become  increasingly  evident  that,  at  least  to  a 
+certain extent, there are alternatives to a purely regulatory approach for the chemical industry and 
+other enterprises that have potentially huge infl uences on the environment and sustainability.
+One alternative to the regulatory approach to pollution control is provided in part by the practice 
+of  industrial  ecology,  which  in  its  modern  form  can  be  traced  to  a  1989  article  by  Frosch  and 
+Gallopoulos.1 Industrial ecology views industrial systems as interacting to mutual advantage in a 
+way  that  minimizes  environmental  and  sustainability  impacts  and  that  processes  materials  and 
+energy  with  maximum  effi ciency  and  minimum  waste  in  a  manner  analogous  to  the  metabolism 
+of matter and energy in natural ecosystems. Starting in the mid-1990s, green chemistry has devel-
+oped as a dynamic and rapidly developing discipline dealing with the sustainable practice of chem-
+istry.  Green  chemistry  and  industrial  ecology  are  closely  related  and  one  cannot  be  practiced 
+effectively  without  the  other.  This  chapter  addresses  green  chemistry  and  industrial  ecology  as 
+essential  disciplines in maintaining environmental quality.
+454 Environmental Chemistry
+17.2 GREEN CHEMISTRY
+Green  chemistry  can  be  defi ned  as  the  sustainable  practice  of  chemical  science  and  technology 
+within the framework of good practice of industrial ecology in a manner that is safe and nonpollut-
+ing and that consumes minimum amounts of materials and energy while producing little or no waste 
+material and which minimizes the use and handling of hazardous substances and does not release 
+such  substances  to  the  environment.2 The  inclusion  of  industrial  ecology  in  this  defi nition  carries 
+with it a number of implications regarding minimum consumption of raw materials, maximum recy-
+cling of materials, minimum production of unusable by-products, and other environmentally friendly 
+factors  favorable  to  the  maintenance  of  sustainability.  Figure  17.1  illustrates  the  main  aspects  of 
+green chemistry.
+A key aspect of green chemistry is sustainability. Ideally, green chemistry is self-sustaining for 
+several reasons. One of these is economic because green chemistry in its most developed form is 
+less  costly  in  strictly  monetary  terms  than  chemistry  the  way  it  has  been  traditionally  practiced. 
+Green chemistry is sustainable in terms of materials because of its minimal but highly effi cient use 
+of raw materials. And green chemistry is sustainable in terms of wastes, because it does not cause 
+an intolerable accumulation of hazardous waste products.
+In implementing the practice of green chemistry, two often-complementary approaches are the 
+following.
+Use existing chemicals, but make them by environmentally benign syntheses.• 
+Substitute chemicals made by environmentally benign syntheses for existing chemicals.• 
+Both  approaches  need  to  be  used.  And  both  approaches  challenge  the  ingenuity  of  chemists  and 
+chemical engineers to come up with innovative solutions to environmental problems arising from 
+the chemical industry.
+17.2.1 TWELVE PRINCIPLES OF GREEN CHEMISTRY
+Green chemistry is guided by Twelve Principles of Green Chemistry,3 aspects of which are  discussed 
+in this chapter.
+ 1.  Design chemical products and processes to prevent waste. One of life’s most common les-
+sons is that it is better to not make a mess than to clean it up once made. Failure to follow 
+Renewable
+feedstocks
+No waste
+Recycle
+Degradability
+Reaction
+conditions
+Control
+Product
+FIGURE  17.1 Illustration  of  the  defi nition  of  green  chemistry,  which  emphasizes  renewable  feedstocks, 
+exacting  control,  mild  reaction  conditions,  maximum  recycling  of  materials,  minimal  wastes,  and  degrad-
+ability of products that might enter the environment.
+
+
+
+# **Section 1 — Importance of Pollution Chapters for the AP Exam**
+Today we're talking water pollution, and the next several chapters, as I mentioned before, on water pollution, air pollution, global warming, and ozone are really important chapters to really read and understand for the AP exam, because keep in mind that almost a third of AP exam questions, multiple choice questions, come from pollution alone. So it's really important you have a good handle on all the terms in this chapter, and they're not hard, it's just a lot to remember.
+
+# **Section 2 — Chesapeake Bay Introduction**
+The opening story, this picture here, is about the Chesapeake Bay, and the Chesapeake Bay is between Virginia and Delaware, up in the northeast, and there are lots of waterways that will contribute to the bay. It's the largest estuary in the U.S. and has a lot of environmental issues, and a lot of it comes from, if not a huge majority, come from human activities, and it's from animal feeding lots, so their manure gets either dumped purposely or leaks into the river waterways. Sediment pollution is an issue. Pharmaceuticals getting in there, even birth control, have been getting into the water, which was causing severe issues with some organisms that turned out to be hermaphrodites, so both male and female parts due to the human dumping.
+
+# **Section 3 — What Is Water Pollution?**
+So what is water pollution? Contamination of streams, rivers, lakes, oceans, or groundwater with substances produced through human activities and that negatively affect organisms.
+
+# **Section 4 — Point vs. Non-Point Sources**
+An important point to remember are the two types of sources from which water pollution comes from. They are always asked on the AP exam, so know these two terms.
+
+Point sources and non-point sources.
+
+Point sources mean that this particular polluter I can actually point to and say, yes, that is it. That is what is causing the pollution. So it could be a particular factory that empties out into the water. It could be a specific animal manure area.
+
+A non-point source means that it's a very diffuse or large area that it's very hard to point to. Or it could be a series of places that are contributing the pollution, so you can't really narrow it down or target who it is. So that could be an entire farming region. It could be an entire region of factories that you can't tell where the source exactly is.
+
+A good hint is that a point source is singular. If they were asking you a multiple choice question and they said, which one of these is a point source pollutant, if you see one that is singular, it's more than likely the point source. If it's multiple, like animal lagoons or farming areas, so plural, those are more likely to be non-point sources.
+
+So there you go. A particular pipe that is releasing pollutants into a body of fresh water is a point source. Excuse me, it doesn't have to be fresh water. It can be ocean water too. And a non-point source, you can see this large farming area where it would be hard to point exactly to the source.
+
+# **Section 5 — Types of Water Pollutants (Overview)**
+Human and animal waste, inorganic substances, organic compounds, and non-chemical pollutants.
+
+Here is a river in China that are greenish black from pollution from factories. And so they could be so polluted that you could light it on fire just like in a civil action.
+
+# **Section 6 — Human Wastewater Overview**
+Human waste water is obviously a problem, mostly in developing countries. But in developed countries, human waste water is also released into fresh bodies. And the EPA does give them permission to do so. Well, I shouldn't say the EPA. But factories are able to do so, and I'll get to that in a moment.
+
+Water produced by human activities such as human sewage from toilets, gray water from bathing and washing clothes or dishes is considered waste water.
+
+In developing countries, a lot of times people will wash their clothes, take a bath, and go to the bathroom all in the same area, in the same body of water. So you can imagine how nasty and contaminated that water is and how dangerous it could be to consume it or to even really be near it.
+
+# **Section 7 — Why Scientists Are Concerned About Wastewater**
+Wastewater introduces oxygen-demanding wastes like bacteria.  
+Bacteria consume oxygen during decomposition, creating oxygen sag curves.
+
+Low oxygen → hypoxic  
+No oxygen → anoxic  
+
+Nutrients like nitrogen and phosphorus increase fertility → eutrophication.
+
+Dissolved oxygen between 8–9 ppm indicates good quality.
+
+# **Section 8 — Biochemical Oxygen Demand (BOD)**
+BOD = how much oxygen water needs over time at a specific temperature.
+
+Low BOD → less polluted  
+High BOD → more polluted  
+
+High microbial decomposition means low available oxygen.
+
+# **Section 9 — Oxygen Sag Curve**
+Clean zone has low BOD and ~8 ppm oxygen.  
+Pollution input increases decomposition → oxygen drops.  
+Downstream recovery occurs once decomposition slows.
+
+# **Section 10 — Eutrophication**
+Eutrophication = excess nutrients → algal bloom → algae die → microbes consume oxygen → oxygen drops → organisms die.
+
+Eutrophic lakes are older, nutrient-rich, cloudy, and full of decomposition.
+
+# **Section 11 — Diseases from Wastewater**
+Examples include cholera and others, mostly in developing countries.  
+Half of diarrheal and malaria deaths could be prevented with clean water and sanitation.
+
+# **Section 12 — Fecal Coliform (E. coli) Testing**
+Scientists test for fecal coliform like E. coli to detect contamination.  
+Zero coliform is required for drinking water.
+
+High levels → swimming areas closed.
+
+# **Section 13 — Septic Systems**
+Used in rural areas.  
+Three layers form:  
+Scum (floats)  
+Sludge (sinks)  
+Septage (middle water)
+
+Leach fields filter water through soil.  
+Tanks need pumping every 5–10 years.
+
+# **Section 14 — Municipal Sewage Treatment Plants**
+Two main stages:
+
+Primary — remove solids  
+Secondary — aerate water, bacteria break down organics (85–90%)
+
+Water then disinfected with chlorine, ozone, or UV.
+
+Tertiary treatment removes nitrogen and phosphorus to prevent eutrophication.
+
+# **Section 15 — Manure Lagoons**
+Large rubber-lined pits holding animal waste.  
+Can leak and contaminate groundwater.
+
+# **Section 16 — Raw Sewage Overflows**
+During heavy rains, old plants overflow and dump untreated sewage.  
+Billions of gallons can be released.
+
+This has happened in Indianapolis and the Chesapeake Bay.
+
+# **Section 17 — Heavy Metals (Lead, Arsenic, Mercury)**
+Lead — from old pipes, harms nervous system  
+Arsenic — naturally occurring, dissolves in groundwater, carcinogenic  
+Mercury — from burning coal, bioaccumulates in fish, neurotoxin
+
+DDT also bioaccumulates and harms bird reproduction.
+
+# **Section 18 — Acid Deposition**
+Burning fossil fuels releases SO₂ and NO₂ → sulfuric acid forms.
+
+Wet deposition = acid rain  
+Dry deposition = particles on surfaces
+
+Lower pH harms aquatic species.
+
+# **Section 19 — Mercury Sources**
+Mainly from burning coal.  
+Bioaccumulates in tuna and shellfish.  
+EPA warns about fish consumption limits.
+
+# **Section 20 — Mining Pollution**
+Abandoned mines produce acidic runoff (from pyrite FeS₂).  
+Water turns rusty and acidic.
+
+# **Section 21 — Synthetic Organic Chemicals**
+Examples: steroids, antibiotics, medicines entering water.
+
+Never flush medications.
+
+# **Section 22 — Industrial Compounds**
+PCBs — carcinogenic, used in plastics, extremely persistent  
+PBDEs — flame retardants, found in fish, birds, breast milk
+
+# **Section 23 — Oil Pollution**
+Sources include natural seeps, consumption, transportation, and extraction.
+
+Deepwater Horizon (2010) — 206 million gallons  
+Exxon Valdez (1989) — 11 million gallons, long-term damage
+
+# **Section 24 — Cleaning Up Oil Spills**
+Methods include booms, vacuums, dispersants, and oil-eating bacteria.
+
+# **Section 25 — Other Pollutants**
+Solid waste  
+Sediment pollution  
+Thermal pollution  
+Noise pollution
+
+Sediment clouds water, disrupts deltas (e.g., Mississippi).  
+Thermal pollution kills organisms outside their tolerance range.
+
+# **Section 26 — Global Examples**
+Trash-filled rivers (Indonesia)  
+Sediment-loaded deltas (California)  
+Hot water discharge areas (Iceland)
+
+# **Section 27 — Water Laws**
+Clean Water Act (1972) — protects surface waters (not groundwater)  
+Safe Drinking Water Act — regulates drinking water contaminants
+
+Some contaminants (arsenic, mercury, atrazine) are allowed at low levels.
+
+# **Section 28 — Impaired Waterways**
+Charts show pollutants affecting rivers and lakes.
+
+# **Section 29 — Developed vs. Developing Countries**
+Developing countries:  
+Less regulation, less sanitation, more pollution.
+
+Industrialized countries:  
+Better sanitation, improved water quality.
+
+# **Section 30 — End of Chapter**
+Thanks. Just let me know if you have any questions.
+
+
+
+Today we're talking water pollution, and the next several chapters, as I mentioned before, on water pollution, air pollution, global warming, and ozone are really important chapters to really read and understand for the AP exam, because keep in mind that almost a third of AP exam questions, multiple choice questions, come from pollution alone. So it's really important you have a good handle on all the terms in this chapter, and they're not hard, it's just a lot to remember. The opening story, this picture here, is about the Chesapeake Bay, and the Chesapeake Bay is between Virginia and Delaware, up in the northeast, and there are lots of waterways that will contribute to the bay. It's the largest estuary in the U.S. and has a lot of environmental issues, and a lot of it comes from, if not a huge majority, come from human activities, and it's from animal feeding lots, so their manure gets either dumped purposely or leaks into the river waterways. Sediment pollution is an issue. Pharmaceuticals getting in there, even birth control, have been getting into the water, which was causing severe issues with some organisms that turned out to be hermaphrodites, so both male and female parts due to the human dumping. So what is water pollution? Contamination of streams, rivers, lakes, oceans, or groundwater with substances produced through human activities and that negatively affect organisms. An important point to remember are the two types of sources from which water pollution comes from. They are always asked on the AP exam, so know these two terms. Point sources and non-point sources. Point sources mean that this particular polluter I can actually point to and say, yes, that is it. That is what is causing the pollution. So it could be a particular factory that empties out into the water. It could be a specific animal manure area. I'll go back to that in a second. And a non-point source means that it's a very diffuse or large area that it's very hard to point to. Or it could be a series of places that are contributing the pollution, so you can't really narrow it down or target who it is. So that could be an entire farming region. It could be an entire region of factories that you can't tell where the source exactly is. But you know around about where it's coming from. The problem with those is that because they're hard to target, it's hard for the EPA to say, you're responsible and you need to clean it up. So a good hint is that a point source is singular. If they were asking you a multiple choice question and they said, which one of these is a point source pollutant, if you see one that is singular, it's more than likely the point source. If it's multiple, like animal lagoons or farming areas, so plural, those are more likely to be non-point sources. So there you go. A particular pipe that is releasing pollutants into a body of fresh water is a point source. Excuse me, it doesn't have to be fresh water. It can be ocean water too. And a non-point source, you can see this large farming area where it would be hard to point exactly to the source. So what are the different types of water pollutants? Human and animal waste, inorganic substances, organic compounds, and non-chemical pollutants. Here is a river in China that are greenish black from pollution from factories. And so they could be so polluted that you could light it on fire just like in a civil action. So that's pretty gross. Human waste water is obviously a problem, mostly in developing countries. But in developed countries, human waste water is also released into fresh bodies. And the EPA does give them permission to do so. Well, I shouldn't say the EPA. But factories are able to do so, and I'll get to that in a moment. So water produced by human activities such as human sewage from toilets, gray water from bathing and washing clothes or dishes is considered waste water. And in developing countries, a lot of times people will wash their clothes, take a bath, and go to the bathroom all in the same area, in the same body of water. So you can imagine how nasty and contaminated that water is and how dangerous it could be to consume it or to even really be near it. Why scientists are concerned about waste water are the oxygen-demanding wastes like bacteria. When you have decomposition in water, bacteria in decomposition consume a lot of oxygen. And so that creates an oxygen sag curve. And when you have not a whole lot of oxygen, well then obviously organisms are not going to be able to respire and they will die as the water becomes hypoxic, which means very low oxygen, or anoxic, which means without. Nutrients are released from waste water decomposition, such as nitrogen and phosphorus, which are the two that we've learned about before, which makes the water more fertile, causing eutrophication. We've talked about eutrophication, and that's more of over-fertilization. So when you look at dissolved oxygen content in parts per million, you want it between 8 and 9 when you're looking at water quality. So see, this is why I really wanted to get dissolved oxygen measurements in your eco-bottle labs, because it's important to see if it's a good quality water and that this ecosystem is self-sustaining and being efficient at removing waste but also not depleting oxygen. So if you see that, you know, if a question on the AP exam said, hey, the DO is at 3, is this good water quality or bad, you know that it's going to be bad. Biochemical oxygen demand is called the BOD, and that's how much oxygen an amount of water needs to use over a period of time at a specific temperature. Can you hear me? Sorry, I thought my microphone was getting weird. Okay, so if you have a low BOD, that says that the water is less polluted, and higher BOD values indicate that it's more polluted. When bodies of water have high oxygen demand because of microbial decomposition, the amount of O2 for other organisms is low. So take a look at this oxygen sag curve. This picture is not in your textbook, as far as I know. This was in an old textbook, but questions have appeared on the AP exam about oxygen sag curves. So if you notice in your clean zone, the BOD is low, so that means that it's nice, clean, generally clean water, and the dissolved oxygen is at around 8. Now look at what's happened here. Now I've got a point source of effluent, or just nasty stuff that's been deposited into a water body, and so as the effluent or polluted water enters the water source, the bacteria are going to try to consume it and break it down, which leads to more oxygen demand, but the oxygen is getting consumed by that bacteria. So after a while, when the decomposition is starting to finish, and the pollution is starting to diffuse, then it'll start to recover, and then you have clean water again. Eutrophication is the abundance of fertility. So again, over fertilization, and we've talked about this several times. Eutrophication or the adding of nutrients such as nitrogen and phosphorus, like nitrates and phosphates, which you'll get from fertilizers, pesticides, and other chemicals, that can cause the rapid growth of algae, which eventually dies, and then so the microbes need more oxygen, they consume the oxygen, and then it causes the oxygen levels to decrease for the other organisms. And remember too, in Chapter 9, we talked about a eutrophic lake, which means it was an older lake that's been around for a while. The water is cloudy, it's dirty, it's got a lot of algae and decomposition in the water. Common diseases that come from human wastewater include those there. Cholera is a big one, and a lot of these, of course, are in the developing countries. Notice these, that half of diarrheal and malaria deaths could be prevented with safe drinking water and proper sanitation and hygiene, so that means not taking a poop in the river. Forty-two percent of the world's population lacks access to proper sanitation, and over half of them live in the two most populous countries in the world, China and India. If scientists want to check out if a body of water has disease-causing pathogens, they often look for fecal coliform bacteria, such as E. coli, because E. coli lives in our intestines, and if we poop in the water, or if just human waste or animal waste gets into the water system and shows up in the test, E. coli shows up in the test. If E. coli shows up in a water quality test, we know that human or animal waste is in the water. So notice there that a count of zero coliform bacteria is acceptable for drinking water, but it could be quite high at a beach or a river, meaning you could still technically swim in it, you just wouldn't want to consume it. And due to E. coli infestations, if you will, in water bodies, sometimes the government has shut down a body of water from being able to be swam in due to high levels of human waste. How do you treat human and animal waste water? There are two ways. One is a septic system, and if you live out in the country or know someone who does, they probably do have a septic system. I know my family does, who live in the country in Poteet. And so here's a diagram you see of a septic system. You have a container that will receive the wastewater from the house. And what at least happens in my family's house is that you can't put toilet paper or anything except the actual waste in the toilets because it will go into the septic tank and start to clog it up. In the tank or in the wastewater container, anything that floats to the top, and you know what I'm talking about, is called scum. And anything that sinks and is more dense than water is called sludge. And then that middle layer, which is just regular water, is called septage. The septage contains bacteria, but it also contains pathogenic organisms, so potential disease-causing organisms, nitrogen and phosphorus. Through gravity, the water will flow through pipes in the lawn, which is called the leach field. The good thing about septic systems is that no electricity is used in these things. They just rely on the gravity. The pipes contain small little holes so that the water slowly seeps out and will spread across the leach field. So what happens is that that septage, or the water, is filtered out and filtered through the soil. The harmful pathogens settle out, become part of the sludge, and then can be decomposed by microorganisms. And you might have seen in commercials that a lot of times they have that RIDEX, and that's basically adding bacteria to eat away at the sludge. Because if you don't, you have to have it pumped out every five to ten years. If you don't, it gets backed up, and then you have a poop smell coming from your lawn, and that can be really expensive to fix. For people in metropolitan areas, such as us living in San Antonio, we depend on sewage treatment plants. And there are two types of main treatments that they will go through. The first is the primary treatment, and that's when all the solids will settle and dry out, or be dried, and that's the sludge. Water is removed, and that will reduce the volume of the whole thing. And bacteria is added, just like the RIDEX I talked about, in order to try and consume some of that waste. The goal for primary treatment is to get the solid waste material out. When the sludge is settled out of the wastewater and been treated, then the remaining water goes through secondary. And the goal for this is to use bacteria to break down 85 to 90 percent of the organic matter in the water, and convert it to carbon dioxide and nitrogen and phosphorus. So basically what will happen is the water is aerated, or oxygen is pumped into the water to promote bacteria growth, so that it will decompose the organic matter. The last step is for it to be disinfected with either chlorine, ozone, or UV light. Then that water is released into a nearby river or lake. The problem is that with secondary treatment, there's still nitrogen and phosphorus in the water. And we've already established that nitrogen and phosphorus are good nutrients for algae growth. And so when they are pumping this treated wastewater, it still has all this nutrients that can lead to eutrophication. And so companies are trying to get rid of the nitrogen and phosphorus through tertiary treatment. And that is either adding more chemicals to try to get rid of them, or adding different bacteria that are genetically modified or natural that will consume more nitrogen and phosphorus. So denitrifying bacteria that we've seen before in the nitrogen cycle, and phosphorus organisms that will actually absorb and hold on to phosphorus are also used. So that's tertiary. So we can get as much of the nutrients out of the wastewater. So I will let you, you can pause so that you can look at this. You do need to know these. I will tell you that one of the AP FRQ prompts from a few years ago asked the students to very descriptively state what happens through primary and secondary treatment. Probably since they asked that just a few years ago or several years ago, they wouldn't ask that exact question. But you need to know what goes on at both primary and secondary treatment of wastewater. Manure lagoons. This is a manure lagoon here. And so that is just animal waste that is being dumped into a giant pond that has been lined with rubber to try to get it from seeping into the groundwater. And again, they add bacteria to try to break down the organic waste in it. And once it's been dried out, they turn it into pellets for gardening or fertilizers. So you could imagine that a lot of times pollution is happening because there are breaks in the liner and that could get into the groundwater. Let me go back for a second to the human wastewater part. These treatment plans are very critical to our health because they take away a lot of the harmful organic matter and pathogens, which is why we don't worry about waterborne illnesses as much as developing countries do, who will go to the bathroom and wash their hands and wash their clothes and bathe in the same body of water. However, a lot of times raw sewage, which is just urine and poop filled water, could actually be directly pumped into rivers and lakes. And what happens is that when there are periods of really heavy rain, older sewage treatment plants get storm water from those rains and so then it overflows. So when they have an overflow and they can't handle that capacity, the treatment plant is allowed to bypass the normal protocols and actually pump water directly into a nearby lake or stream. And so what happens is that you could release a billion gallons of raw sewage into surrounding water bodies. And this has happened in Indianapolis, as they've seen, and as well as the Chesapeake Bay. That's one of the reasons why it was so polluted. So it does happen in developed countries. All right, so we're past the human and animal wastewater and now we talk about other substances such as heavy metals. We've talked about heavy metals before as impairments to human health. Lead is one that will damage the nervous system, so that's why we have unleaded gasoline. Paint no longer contains lead as that was giving children mental retardation. But lead can still contaminate water because if water is going through old pipes, those pipes still contain lead. And so those little bits of lead can still get into the water. Arsenic is a naturally occurring heavy metal. So it's found in the Earth's crust. It's found when you mine in mining operations. But it readily dissolves in groundwater. And so mining, like for coal, can release arsenic into the water, and that is associated with cancer. So there's a map that I'm going to show you right there that will show you the highest concentrations of arsenic are generally found in the Midwest and the West. And that's when they're found in well water. And sometimes these illnesses can take up to 10 years or more after exposure to develop. So sometimes it's years after you've even been exposed before you notice that there's a problem. And so the EPA has lowered the limit to—I'm sorry, where was I? Oh, has lowered the safe limit. So they put limits on how much is actually acceptable. And we talked about that briefly when we talked about the risk chapter and the toxicity, that how much risk are you willing to accept in your water? And arsenic is one of those things where it was set at some level of 50, and then they lowered it to 10, then they lowered it to 5, and then it had to be back up to 10 because of a lot of pressure. So there could still potentially be arsenic in your groundwater. But a lot of times it is if you're going to be near mining operations. So if you look, once again, San Antonio, not such a bad area to live in because there aren't so many mines here. Mercury is a naturally occurring heavy metal. Most of the time we'll get it as it falls from the sky from burning fossil fuels like coal. Remember, coal is the dirtiest fossil fuel to burn. And mercury levels have increased in the oceans because of the mercury falling down from the smokestacks of coal mines. Excuse me, electric power plants from burning coal. You can also have mercury from burning garbage, medical dental supplies from all the metals in there. And this is a big one because it will bioaccumulate in aquatic food chains, and we've seen that, as you don't want to eat too much large predatory fish like tuna because it bioaccumulates in the larger fish. And mercury has been known to cause nervous system damage. The other one that will bioaccumulate is DDT, that that has been well documented, and it was because that it bioaccumulated in organisms and made the shells of birds go soft, so that meant that fewer birds were being hatched, which means populations crashed. And it was the book Silent Spring that started environmentalism, which led to the banning of DDT. So do make sure that you read page 392 about pesticides. There's a little too much in the reading to put on the slideshow. Acids are also released into the atmosphere from the burning of fossil fuels, so you have sulfur dioxide, nitrous dioxide that gets released from burning coal. When they get released into the air, they're converted to sulfuric acid. Sulfuric acid does burn skin in concentrated amounts. So if you have wet, this is important here, wet acid deposition is in the form of acid rain. So acid rain does have sulfuric acid in it. Dry acid deposition occurs when the gases or solid particles attach to soils, plants, and water. And what happens is that that will reduce the pH, because remember, the lower the pH, the more acidic. So the more acidic the water, the more lethal it could be to some species as that takes them out of their zone. Their, oh, I forgot the word, the zone that they prefer to live in. We'll also get into the acid deposition a lot more in air pollution, but just know the difference between wet acid deposition and dry acid deposition. Mercury production, I'm not really sure why that's that important here. Oh yeah, so going back to mercury, a lot of it is coming from, most of it is coming from the burning of fossil fuels, which is about two-thirds of that. And then notice where a lot of it is coming from. Mercury production is coming, a majority of it, from Asia. Part of the problem, and like I said before, when you don't want to eat too much predatory fish like tuna, but it's also shellfish or sushi, you need to be careful that you don't eat too much sushi at one time, especially if it's tuna sushi. And I'm not a sushi eater, so I don't know what's really a lot. But if you look in your textbook, it said that in 2008, a reporter for the New York Times purchased tuna sushi from 20 locations in New York City. And after analysis found that at most restaurants, a diet of just six pieces per week would exceed the EPA standard for human consumption of mercury. So that could mean it's affecting you, and particularly if you are a woman, that would be a teratogen, meaning it's causing harm to the fetus. So one of the steps that they're trying to do to get rid of mercury is to try and reduce the emissions for mercury or other pollutants in the scrubbers, which are in smokestacks of power plants, to try to reduce those solid particles from emitting. Here, this is an underground mine that was abandoned. So as they were mining away, the land started to subside or to sink. And as you have the groundwater that runs along the top, you see that it's turned like this rusty color, and that is coming from the pyrite. Pyrite is FeS2, so iron sulfide. And when it mixes with water, it will break down into iron and hydrogen. And iron and hydrogen will make the water more acidic. So that's pretty nasty. So mining has a great deal of influence on pollution. This is showing you how synthetic or human-made organisms are making their way into water systems. And if you see there, steroids are making their way into water systems. A lot of that is when you throw away things down the toilet. And that's one reason why you should never deposit old medicines into the water system. You shouldn't throw away birth control pills. That's a big one, too. The reproductive hormones are coming from birth control pills. Sometimes they're being thrown away properly, but maybe the liner in the landfill leaks. You never really know exactly what's happening to it once you throw it away. But hormonal drugs, antibiotics, non-prescription drugs like Tylenol, ibuprofen, all of this is getting into the waterways and not only contaminating it for human consumption, but contaminating it for other organisms. Industrial compounds are another type of water pollutant. And industrial compounds are those chemicals that are used in manufacturing. And unfortunately, many were dumped into bodies of water directly and purposely for a way to dispose of them, which is just insane. An example of industrial compounds being disposed of was in Ohio on the Cuyahoga River. And industries had dumped their waste products for over 100 years and had killed all the animal life that was in the river and eventually caught fire several times in the 60s. And so it's much cleaner now because of legislation, but just imagine how incredibly polluted that water was back then. PCBs are polychlorinated biphenyls, and those are used in plastics. And although it's no longer manufactured, it has a long persistence. So it stays in the area for years and years and can be carcinogenic or cancer-causing when it's ingested. A big case of it was when GE, General Electric, had dumped over a million pounds of PCBs into the Hudson River, and the EPA demanded that they dredge it to dig it up, which they fought because they said it was going to stir up the sediments and then increase the PCBs in the water again. But the EPA won, and so they did have to dredge the river to try and dig it up. PBDEs are polybrominated diphenyl ethers, and those are used as flame retardants. So they're put in clothes, they're put in building materials or furniture to obviously make them less flammable. But somehow they were getting into waterways because they were showing PBDEs in fish, in birds, and in breast milk, and that can lead to brain damage. So many types of those compounds have been banned. Oil pollution we're a little bit more familiar with, and what this graphic is showing you is where these sources of oil come from in the ocean. So in A is North American marine waters, and notice that 62% is in natural seep. So what scientists have discovered is that oil can naturally seep from the bottom of the ocean, and we have to consider that when we also have spills or leaks from industry because there's that combined human and natural release of oil. So from consumption of products, from the transportation of the petroleum itself, from actually extracting petroleum from the ocean floor will cause leaks and spills. And then on the right is the worldwide. Annually, 322,000 pounds of oil leaks in North American waters. Those are from the oil platforms, usually in the Gulf, but worldwide it's actually worse and can go from the same amount, 322,000 pounds, to over a million pounds of oil in other parts of the world where the rules are less stringent. In 2010, you're probably more familiar with the BP explosion off the Deepwater Horizon platform in the Gulf of Mexico, and there, between the time that the explosion in April until they actually finally sealed it in August, it released about 206 million gallons of oil into the Gulf. And so you can imagine how much it contaminated beaches, the wildlife, the freshwater estuaries along the coasts, and of course animal life. One real big famous one when I was a kid was the Exxon Valdez that happened in 1989. In fact, it was the 25th anniversary this week in March, in which it spilled 11 million gallons of oil and killed hundreds of thousands of seabirds and otters and seals and even killer whales. So they've been cleaning it up now for 25 years, and it's still ongoing, and they estimate it's going to take about 100 years for it to fully break down. And that's one of the things we have to think about when oil is naturally seeping into the water from the ocean itself, from the ocean floor, that over time it will finally disperse and be remediated. But then you add in human-induced oil pollution, and it's just going to take a lot longer. So there you see, this is from the Exxon Valdez spill. So how do you clean up oil pollution? Well, there's a couple of ways. And they started experimenting a lot after the Exxon Valdez because of how much was released, although it was only 11 million and BP was 206 million. But they tried to contain it using booms, which are these plastic containers that just float on the surface. Because keep in mind, oil does not mix with water, so oil will float on top of water, but it also makes this really thick layer. So you have to make sure that those containment booms will be, I guess, thick enough to try to block the oil from spreading. So once they're able to contain that in an area, they will try and suck it up with vacuums. Otherwise, they've tried to apply chemicals that try to make it disperse before it hits the shoreline and then cause damage to the ecosystems. So although that could be effective, think of it kind of like spreading the bacteria to break down solid waste. It's still a chemical, and so the chemical could be toxic to the wildlife. And then they also have genetically engineered bacteria that would consume oil from natural seeps. So they decided to get those to try to eat up human spilled oil. Other water pollutants include solid waste. So again, don't pollute. Don't be throwing away any kind of trash into the water. Obviously, things will contaminate the water. Sediment pollution is not one that people normally think about, but the Chesapeake Bay up in Virginia does have that issue of sediment pollution. So when you start to build and develop cities, especially along coastlines, you are taking away trees, which take away roots, which anchor some of that soil. So the soil will easily wash away, and then they go into the water bodies that move. And so they could empty out and make the deltas very clogged with sediment, just like the Mississippi is right now. They become brown, they become ugly, and that reduces productivity of plants. Thermal pollution is also another one when they empty out heated water from industry out into open bodies of water, fresh or ocean water. So because that's out of that range of tolerance – oh, tolerance was the word I was looking for earlier – because the heated water takes those organisms out of their range of tolerance for temperature, many will die. Noise pollution is also considered a pollutant in water because of ships interfering with whale communication. This is a river in Indonesia that is just loaded with trash. I mean, that's just disgusting. Can you imagine? This is the Santa Ana River in California. And so it's going out into the Pacific, so you can see all that sediment that has been emptied out, and it forms this delta. That's a lot of sediment that should not be there, and it's mostly a result of all the development going on that causes all that loose soil to be washed away. This is in Iceland, and a lot of people in Iceland will go in the bodies of water that are heated by geothermal energy, so energy from the earth. And so they have this water here that is by a nuclear reactor. And as I mentioned before, when it comes to power plants, whether it's coal or especially nuclear, they have to cool down the water that they have used to heat up. Because remember, they heat up the water to cause steam to turn the turbines, to turn the generators, to generate electricity. Well, that water has to be cooled down. So when they use those cooling tanks, and after it's cooled, they return it to natural bodies of water, but it's still pretty hot. Water laws, these are important. The Clean Water Act of 1972 was established to protect fish, shellfish, and wildlife. And keep in mind that it does not include the protection of groundwater, which is what we get our drinking water from. So it really focused mostly on the chemical properties of the surface waters. The Safe Drinking Water Act then was established The Safe Drinking Water Act then was established later to set the standards for safe drinking water. And that's where they put those acceptable contaminant levels for substances in water and groundwater for us to drink. And so here you can see some microorganisms. This is for drinking water. And notice that it's in parts per billion, not parts per million. So no fecal coliform bacteria is acceptable for drinking water because then you would be drinking human poop. But notice that arsenic is acceptable. Some parts of mercury, some parts of benzene, atrazine, are allowed and considered tolerated in drinking water. And this is also how waterways have been impaired. So just take a look at those charts. Developing countries are still in the process of industrializing, so they have less restrictive environmental laws, have less money to fund water quality improvements like waste treatment plants. So what's really important in the developing countries is to try to get them some clean, potable water and some facilities to treat especially human wastewater and to try to get them from not bathing and washing and pooping in their waterways. But as would be expected, as a country becomes more industrialized, it becomes more affluent, regulations will improve, sanitation improves, hygiene improves. So water quality will improve. All right, this is the end of Chapter 14. Thanks. Just let me know if you have any questions.
+
+
+This week in Environmental Science, we'll be taking a look at Chapter 10, which is on Environmental Health and Toxicology. Our objectives for the chapter are to understand environmental health and environmental hazards, to understand toxic substances in the environment, the movement of toxic substances and their effects, to understand chemical hazards, risk assessment and risk management, and the philosophical approaches to risk. Our central case study for the chapter is on Bisphenol A, also known as BPA. It's everywhere, but is it safe? How is it that a chemical found to alter reproductive development in animals gets used in things like baby bottles? How can it be that a substance linked to breast cancer, prostate cancer and heart disease is routinely used in food and drink containers? The chemical Bisphenol A, or BPA for short, has been associated with everything from neurological effects to miscarriage, yet there's better than a 9 in 10 chance that it's coursing through your body right now. Bisphenol A is an organic compound. Its chemical formula is C15H16O2 and was synthesized in 1891. As they began producing plastics in the 1950s, chemists found BPA to be useful in creating epoxy resins used in lacquers and coatings. Epoxy resins containing BPA were soon being used then to line the insides of metal food and drink cans and the insides of pipes for our water supply as well as in enamels, varnishes, adhesives and even in dental sealants for our teeth. Chemists also found that linking BPA molecules into polymers helped create polycarbonate plastic, a hard, clear type of plastic that soon found use in water bottles, food containers, eyeglass lenses, CDs, DVDs, laptops and other electronics, auto parts and sports equipment including baby bottles and children's toys. With so many uses, BPA has become one of the world's most produced chemicals. Each year we make about a half a kilogram of BPA per person on the planet. Unfortunately BPA leaches out of its many products and into our food and water and our air and our bodies so we could fully say that 93% of Americans carry detectable concentrations of BPA in their urine according to the CDC or the Centers for Disease Control. How does it work? Well there's been a lot of studies with laboratory animals and the health impacts from BPA include a wide range of reproductive abnormalities. This is because BPA mimics estrogen which is a female hormone primarily and the body reacts to it as it would estrogen. Researchers and doctors and consumer advocates want governmental regulation but still the chemical industry insists that it's tested itself and that it is safe. Some countries have actually banned it including Canada where it's banned altogether and Japan has banned it altogether. In some nations like the US we restrict its use with babies and small children only. So for the rest of us adults we are in contact with BPA probably on a daily basis. Because of the mounting safety concerns there is some speck of good news such as Campbell's company has announced that it's transitioning away from using BPA in their soup can liners and food giants Conagra and Nestle and Heinz have pledged to remove BPA from their food packaging. The speed all A is by no means one of the greatest environmental health threats out there but it does give us an example of how we as a society assess health risks and decide how to manage them. As scientists and government regulators assess BPA's potential risks their efforts give us a window on how hormone disrupting chemicals are challenging the way we appraise and control the environmental health risks that we face daily. The broad field of environmental health is one that assesses the environmental factors that influence our health and the quality of life. These factors include both natural and anthropogenic or human caused factors. Practitioners in environmental health try to prevent adverse effects on human health and ecological systems. We face four main types of environmental hazards. The first one is physical hazards. These occur naturally in our environment and can include things like UV radiation, earthquakes, volcanoes, fires, floods, landslides, hurricanes and droughts. We can't prevent them but we can prepare for them with proper planning and in some case avoid causing them. We increase our vulnerability by deforesting slopes which then would increase the chances of landslides and when we channelize rivers this increases flooding. In the picture we can see one example of a physical hazard due to the exposure from UV radiation which would then cause a sunburn. The next type of hazard we face is a chemical hazard. Chemicals like pharmaceuticals, disinfectants and pesticides and even some natural chemicals like lead can be harmful to us. There's also number three biological hazards. These result from ecological interactions such as infectious disease from pathogens like viruses and bacteria or from parasites that parasitize humans like malaria and cholera. We can't avoid risk but we can reduce infection through monitoring, sanitation and treatment and educating others. The fourth type of environmental hazard we face is cultural hazards. These result from where we live, from our socioeconomic status, from our occupation or from behavioral choices. We can minimize or prevent some of these hazards whereas others might be beyond our control for instance second hand cigarette smoke might be something that's hard to avoid for some people. Much of the same might be said for other cultural hazards like diet, nutrition, criminal behavior and workplace hazards. Environmental justice advocates argue that forced risks from cultural hazards like living near a hazardous waste site are often higher for people with fewer economic resources or less political clout. Despite all of our technological advances, disease causes the vast majority of human deaths worldwide. Over half of the world's deaths result from non-infectious diseases. Those are ones that are not spread from person to person and include things like cancer and heart disease. These diseases are influenced by genetics, environmental factors and lifestyle choices. Of course poverty and poor hygiene help to foster these illnesses. Although infectious disease accounts for fewer deaths than non-infectious disease, infectious disease robs society of more years of human life because it strikes people at all ages including the very young. Non-infectious diseases are ones that can be spread from one individual to the next. They account for almost one out of every four deaths that occur each year. Infectious diseases are a greater problem in the developing countries where it accounts for close to half of all the deaths. Infectious diseases cause many fewer deaths in developed nations because they have better health and better health care. The leading cause of death by infectious disease is respiratory infections as we can see from the chart in the corner of the slide. Many infectious diseases are spread by what's called a vector. This is an organism that transfers a disease to a host. AIDS is a well-known infectious disease but respiratory and diarrheal diseases claim far more lives every year than AIDS. According to the figure, how many times more lives were lost to respiratory infections and diarrheal diseases than to AIDS? See if you can use the graph in the corner of the slide to find the answer. Decades of public health efforts have lessened the impacts of infectious diseases and have even eradicated some but some diseases like AIDS or acquired immunodeficiency syndrome continue to spread globally despite our efforts to stop them. Others like tuberculosis and strains of malaria are evolving resistance to our antibiotics. Additionally, human-induced global warming is enabling tropical diseases like malaria, dengue and cholera to gain footholds in our temperate regions. In our world of global mobility and dense human populations, novel infectious diseases or new strains of old diseases that emerge in one location are more likely to spread quickly to other locations. Some examples include the H5N1 avian flu that emerged in 2004 and the H1N1 swine flu that spread across the globe in 2009 and 2010. Diseases like influenza, whose pathogens evolve rapidly, give rise to a variety of strains making it more likely that one may turn exceedingly dangerous and cause a global pandemic, which is a widespread outbreak of the disease. There are many ways to fight infectious diseases and we can reduce the chance of infection through immunization, sanitation, access to clean food and water, security and by education. Toxicology is the study of chemical hazards. Our modern society is exposing us to more and more synthetic chemicals as we begin to make more and more of these in industrialized nations. Some of these can pose threats to human health, but figuring out which ones do, which ones don't and how and to what degree is pretty complicated. Toxicology is the science that examines how poisonous chemicals affect the health of humans and other organisms. Scientists assess and compare substances to determine their toxicity or the degree of harm a chemical substance can inflict. A toxic substance or a poison is called a toxicant, but any chemical substance may exert negative effects if we expose ourselves to enough of it, so quantity always plays a role. As more and more people are concerned with exposing ourselves and the environment to toxicants, the field of environmental toxicology has grown. It deals specifically with toxic substances that come from or are discharged into the environment. Toxicologists generally focus on human health and use other organisms as models and test subjects, such as mice and plants. Most environmental health hazards actually exist indoors. Most Americans spend 90% of their time indoors. Cigarette smoke and radon, which can occur indoors, causes lung cancer. Mold can occur indoors, in homes and in offices and produces toxic compounds that can have negative effects on human health. Asbestos, which is used for insulation, can cause problems if inhaled. Lead pipes and gasoline damages organs and causes learning problems, hearing loss and death. Education and phase-out has decreased lead poisoning. One recently recognized indoor hazard is polybrominated diphenyl ethers, or PBDEs for short. These compounds are used as fire retardants in electronics like computers and televisions, in plastics and furniture, and they evaporate very slowly over the lifetime of the product. Like bisphenol A, they act as hormone disruptors. And animal testing suggests that they can also cause cancer and affect thyroid hormones and have a negative effect on brain and nervous system development. Concern about them rose in the 1970s to 1997, when they found that concentrations of these compounds in the breast milk of Swedish mothers rose exponentially. So, the European Union banned them in 2003 and concentrations in breast milk has declined since, but yet the United States has yet to make any decisions on banning this chemical. Risks must be balanced against rewards. We have to remember that in our industrialized country, chemicals have given us our high standard of living. Industrial agriculture's production of food, medical advances that protect our health, prolong our lives, and in modern materials and conveniences that we've known to grow and love as humans. So we need to remember the benefits and then weigh the negative side effects and search for better alternatives. Our environment contains countless natural substances that can pose health risks, including things like oil oozing naturally from the ground and radon gas seeping up from bedrock into our homes. Substances are toxic chemicals manufactured in the tissues of living organisms. For example, chemicals that plants use to ward off herbivores or insects that use toxins to defend themselves from predators. In addition, though, we're exposed to many synthetic or human-made chemicals. Synthetic chemicals surround us in our daily lives. The United States manufactures or imports around 113 kilograms or 250 pounds of chemical substances for every man, woman, and child. Many of these are particularly pesticides and insecticides. These find our way into our soil, air, and water, and into humans and other organisms. In fact, the U.S. government's latest national health and nutrition examination survey gathered data on 148 foreign compounds in American bodies. Among those were several toxic, persistent organic pollutants restricted by the international treaty. Depending on the pollutant, these were detected in 41 to 100 percent of the people tested. Our exposure to synthetic chemicals begins in the womb, actually, as substances that our mother ingests while they're pregnant are transferred to us as babies. A 2009 study found 232 chemicals in the umbilical cords of 10 newborn babies that it tested. Nine of the 10 umbilical cords contained the chemical bisphenol A, leading researchers to believe that we are born pre-polluted. But remember that not all synthetic chemicals pose health risks. Roughly of the 100,000 synthetic chemicals on the market today, very few have been thoroughly tested. For the vast majority, we simply don't know what effects, if any, they may have on us. Synthetic chemicals travel through the environment in many ways, as we can see in this chart, from home, from work, from medical facilities and public spaces, agriculture, crops, feedlots, from the soil, water, including surface and groundwater, and through the air. Silent Spring began the public debate over synthetic chemicals. In the 1960s, untested pesticides were sprayed with the assumption that they would not harm people. Rachel Carson's Silent Spring from 1962 showed DDT's risk to people, to wildlife, and to ecosystems. Remember, DDT is the chemical that was known to cause the eggshells of many top predators like bald eagles to become very brittle, causing almost the extinction, but definitely the endangerment of our national bird. Rachel Carson's Silent Spring was a bestseller and generated social change in views and actions towards the environment. It helped cause the banning of DDT in the U.S. in 1973, but developing countries with tropical climates still use it to control mosquitoes, because mosquitoes are the vector that carry the parasite that causes malaria. Many toxicologists focus on synthetic chemicals, but we need to remember that toxic substances also exist naturally. So don't assume that natural chemicals are all healthy and synthetic ones are all harmful. Plants, even our crops that we eat, contain harmful chemicals, and then we transfer those into our body when we eat them. Meat contains toxins that the animals got from plants that they ate, and then as we eat the meat, it gets transferred into our bodies as well. Scientists are debating how much risk natural toxicants pose. Toxicants come in many different types, including the following carcinogens, which cause cancer. They're hard to identify because of the long time in between the exposure and the onset of cancer. The link between cigarette smoke and cancer is an example. Mutagens cause DNA mutations. They can cause cancer and can harm sperm and egg cells. Teratogens cause birth defects in embryos. One example is a drug that was used in the 1950s called thalidomide. It was taken by pregnant women to prevent nausea and as a sleeping pill. Unfortunately, the drug turned out to be a terrible teratogen and caused birth defects in the babies that were born to the women who had taken the drug, and the birth defects included the misdevelopment of their limbs. The drug was banned in the 1960s then. Neurotoxins affect the nervous system, like lead and mercury, which can build up in our system. Allergens over-activate the immune system. One hypothesis for the increase of asthma in recent years is that allergenic synthetic chemicals are more prevalent in our environment today. Allergens are not universally considered toxicants, however, because they affect some people but not others. Pathway inhibitors interrupt biochemical processes. For instance, rat poison contains a pathway inhibitor that stops the clotting of blood. Another example is cyanide. It kills by interrupting the chemical pathways in the mitochondria of our cells during cell respiration when we're trying to make energy. Most recently, scientists have recognized endocrine disruptors as toxicants. Endocrine disruptors affect the endocrine system, which is our system of hormones that stimulate growth and development and sexual maturity. They also help regulate functions in the brain, appetite, sex drive, amount of water in our tissues, etc. Synthetic chemicals can block or mimic hormones, like we've talked about earlier, BPA. Phthalates are another class of hormone-disrupting chemicals that are, unfortunately, used widely in children's toys, perfumes, cosmetics, and many other items. Health research on phthalates has linked them to birth defects, breast cancer, and reduced sperm counts. Just like BPA, phthalates show how a substance can actually be, all in one, a carcinogen, a mutagen, and an endocrine disruptor. Organisms have natural defenses. Although synthetic toxicants are new, organisms have long been exposed to natural toxicants like mercury, cadmium, arsenic, and other harmful substances that are found naturally in the environment. Additionally, some organisms produce biological toxins themselves. These exposures have provided what's called selection pressure for mechanisms that provide protection from the toxins, meaning, over time, natural selection has allowed organisms to be able to tolerate these harmful substances and have gained an evolutionary advantage. Skin and scales and feathers are a first-line barrier that prevent toxin intake, but through eating and breathing, these toxins can enter our body. In some cases, some organisms have biochemical pathways that can detoxify or metabolize the toxins and make them water-soluble so they can be passed out of the body or excreted. Some toxic substances cannot be effectively detoxified or made water-soluble, so instead, the body quarantines them in the fatty tissues and cell membranes to keep them away from our vital organs. Heavy metals like mercury and dioxins and some insecticides like DDT are stored in the body tissues in this manner. Defense mechanisms for natural toxins have evolved over millions of years, but for these synthetic chemicals that haven't been around for so long, natural selection has not had enough time for us to make defenses against them. Different individuals respond differently to hazards. Genetics can have an effect on the response. People in poor health will be more sensitive to synthetic and natural harmful chemicals. Safety also varies with sex, age, and weight. Fetuses, infants, and young children can be more sensitive. The U.S. Environmental Protection Agency, or EPA, sets standards for responses based on adult responses, so the standards might not be low enough to protect the young. The type of exposure affects the response. An acute exposure is high exposure to a hazard for short periods of time. They're easy to recognize, for instance, from an oil spill or a nuclear accident, and toxicity tests reflect the effects of the acute toxicity. Chronic exposure is a low exposure for a long time. They're more common, but they're harder to detect and diagnose. The effects are gradual, for instance, lung cancer and liver damage from alcohol abuse, so cause and effect may not be easily apparent. Toxic substances and their effects on ecosystems. When toxicants harm individuals, populations become smaller, and the decline affects other species then because of food webs and food chains. If predator species are affected, then the prey species can experience a population growth. If the prey species are affected, then we see a decline in predators as they've lost their food sources. Cascading impacts change the community's composition then, and can threaten the ecosystem function. Chemicals concentrate and persist in systems in many ways that we're still studying. Airborne substances can travel widely, for instance, chemicals can travel in the air, and the impact can be far from the actual site of use. And synthetic chemicals are found globally. In arctic polar bears, and in arctic penguins, and people in Greenland, we find chemicals within them. Pesticide drift is the airborne transport of pesticides. Toxic substances can concentrate in water. Runoff concentrates contaminants in surface water. Wastewater treatment plants release toxins, pharmaceuticals, and detoxification products from humans that can contaminate drinking water. Water-soluble chemicals can enter organisms through drinking or absorption, such as in fish, frogs, and in stream invertebrates, can serve as an indicator of pollution because it affects them first. Pesticides and streams and rivers enter drinking water and the air, and the toxicants can move long distances through aquatic systems. Toxins can degrade quickly and can become harmless, or they may remain unaltered and persist for decades. Rates of degradation depend on the substance, the temperature, the moisture, and the sun exposure. Toxicants can degrade into simpler breakdown products that can be more or less harmful than the original substance. For instance, DDT degrades to DDE, which is also highly persistent and toxic. Toxicants can accumulate and bio-magnify. Biomagnification is when the toxicants build up in the animal tissues and are fat-soluble. So they build up in the fatty areas and in the cell membranes. They can transfer toxins to others through the food chain. Biomagnification is when the toxicant concentrations are magnified through trophic levels and have resulted in near extinction of organisms like the peregrine falcon and embalmed eagles. Toxic substances can change the composition of ecosystems. They affect how organisms interact with each other and the environment and can threaten ecosystem services. Antifungals have killed many bees, though the pesticides aren't intended for the bees, they're intended for other pests, but have nonetheless affected our major pollinators. So farmers must hire beekeepers to pollinate their crops for them. Pesticides and antifungals kill decomposers and detritivores in the soil, again, even though these chemicals are not aimed at these organisms, they're affected anyway because they're in the area when they're applied. It's changed the nutrient cycling rates and reduced nutrients and caused slow plant growth. Determining the effects of particular environmental hazards on organisms and the ecosystem is a challenging job and scientists rely on several different methods to do this. Scientists study the impacts of environmental hazards on wild animals to help conserve animal populations and also to understand potential risks to people. Often wildlife toxicologists work in the field with the animals first before they go to the lab and test their hypotheses. For instance, some of the early work on tying environmental chemicals to endocrine disruption was done by biologist Louis Gillette. They discovered that alligators in lakes in Florida receiving agricultural runoff had higher rates of reproductive problems than the ones in less polluted lakes. Subsequent laboratory studies showed that contaminants found in alligator eggs, including the herbicide atrazine, could bind to receptors for estrogen and produce an enzyme that converts testosterone to estrogen. Following Gillette's work, researcher Tyrone Hayes, pictured in the picture off to your right, found in laboratory experiments that male frogs raised in water containing low doses of atrazine became feminized and hermaphroditic. They developed both testes and ovaries. Field surveys then showed that leopard frogs across North America experienced hormonal problems in areas of heavy atrazine usage. These studies indicated that atrazine, which kills plants by blocking biochemical pathways for photosynthesis, can also act as endocrine disruptors in animals. One way to gain much knowledge is by studying sickened individuals directly. The process of observing and analyzing individual patients is known as case history approach. Case histories have advanced our understanding of human illness, but tell us little about the probability and risk. For such questions which are common in environmental toxicology, we need what's called epidemiological studies. This compares a group of people who are exposed to a hazard to a group who are not. These studies can last for years. If rates of death, cancer, and those types of things are higher in the exposed group, the hazard may be responsible. It unfortunately does not show that the hazard caused the effect. Manipulative experiments can show causation though, but unfortunately are unethical in humans, but are done in organisms like small mammals, rats, mice, etc. The standard method of testing with lab animals in toxicology is called the dose-response analysis. Scientists quantify the toxicity of a substance by measuring the strength of its effects or the number of animals affected at different doses. The dose is the amount of substance the animal receives that's being tested, and the response is the type or magnitude of negative effects that the animal exhibits as a result. The response is generally quantified by measuring the proportion of animals exhibiting negative impacts. The data then is plotted on a graph with dose on the x-axis and response on the y-axis. This results in what's called a dose-response curve. Once they've plotted a dose-response curve, toxicologists can calculate a convenient shorthand gauge of a substance's toxicity. A substance's toxicity, or the amount of the substance that it takes to kill half of the population of study animals used, is called LD50. Again, the lethal dose for 50% of the individuals to die is termed LD50. A high LD50 indicates low toxicity for a substance, and a low LD50 indicates high toxicity for a substance. If the experimenter is interested in non-lethal health impacts, he or she may want to document the level of toxicant at which 50% of the population of test animals is affected in some way or other. For instance, what level of toxicant would cause 50% of your lab mice to develop reproductive abnormalities? Such a level is called the effective dose, 50%, or ED50. Some substances can elicit effects at any concentration, but for others, responses can only occur at a certain dose, or what's called a threshold dose. The shape of dose-response curves is important because estimating the effects on humans then often requires extrapolation, extending the dose-response curve beyond the doses tested with laboratory animals. Because extrapolation stretches the data beyond the actual curve, they introduce uncertainty into the interpretation of what doses are safe for people and which are toxic. Sometimes a response may decrease as a dose increases. Toxicologists are finding that some dose-response curves are U-shaped and J-shaped and even shaped like an inverted U. Such counterintuitive curves contradict toxicology's traditional assumption that the dose makes the poison. These unconventional dose-response curves often occur with endocrine disruptors like bisphenol A. It's likely because the hormone system is geared to respond to such minute concentrations of substances. Of course, it's hard to determine the harmful effects of single chemicals by themselves, but what about when different chemicals are mixed together? They may act in ways that cannot be predicted. Mixed toxicants can sum, cancel out, or multiply each other's effects. The interactive impacts that are greater than the sum of their constituent effects are called synergistic effects and occur often when mixed toxicants come together. For example, with Florida's alligators, lab experiments have indicated that DDT breakdown to DDE can either promote or inhibit sex reversal depending on the presence of other chemicals. Antibodies exposed to a mixture of nitrates, atrazine, and insecticides have been found to show immune, endocrine, and nervous system disruptions that are not evident when just the chemicals are alone by themselves. So obviously, it can be very hard for scientists to figure out what are all the effects of the different environmental toxins alone, let alone when they're mixed together. It's probably impossible to test all the possible combinations together. Unconventional dose-response curves are presenting challenges for scientists studying toxic substances and for policy makers trying to set safety standards for them. Because so many novel synthetic chemicals exist at so many very low concentrations over wide areas, many scientists suspect that we may have underestimated the dangers of compounds that exert impacts at low concentrations. Scientists first noted endocrine-disrupting effects decades ago, but the idea that synthetic chemicals might be altering the hormones of animals was not widely appreciated until the 1996 book, Our Stolen Future, by Theo Colvern and Diane Dumanoski and J.P. Myers. Like Silent Spring, this book integrated scientific work from various fields and presented a unified picture that shocked many readers and brought criticism from some scientists and from chemical industry. Today thousands of studies have linked hundreds of substances to effects on reproduction, development, immune function, brain and nervous system function and other hormone-driven processes. Evidence is strongest so far in non-human animals, but many studies suggest impacts on humans. Some researchers suggest that endocrine disruptors may account for rising rates of testicular cancer, for undescended testicles in male infants and genital birth defects in males. Others argue that the sharp rise in breast cancer rates, which is 1 in 8 U.S. women today, may be due to hormone disruption because excess estrogen appears to feed tumor development in older women. While other scientists attribute male reproductive problems to elevated BPA exposure, for instance Chinese factory workers that manufacture BPA have elevated rates of erectile dysfunction and reduced sperm counts. Research on hormone disruption has brought about a lot of debate. This is partly because of the scientific uncertainty and the youngness of the field, but because of the economic value of the chemicals being tested. For instance, Tyrone Hayes's work has met with a lot of criticism from the scientists associated with Atrazine's manufacturer because they would lose many millions of dollars if its widely used herbicide were to become banned or restricted. And now we return to the science behind the story with testing the safety of Bisphenol A or BPA. Dr. Hunt at Case Western Reserve University in Ohio noticed that 40% of developing mice eggs showed problems with their chromosomes. They investigated it and then they found that the lab assistant had washed plastic cages and water bottles with a harsh soap and that the cages contained BPA. Her lab researchers recreated the accidental cage washing incident in controlled experiments then and for the results they found the developing eggs exposed to BPA through deliberately damaged plastic shows significant problems during meiosis. In additional testing, the females received daily doses of BPA over 3, 5, and 7 days and they had the same meiotic abnormalities but at lower levels. The mice given BPA for 7 days were most severely affected. These findings were published and hundreds of other studies of BPA at low doses have been documented and shown harmful effects in lab animals. And more and more scientists urge regulators to adopt the precautionary principle here and restrict Bisphenol A. We express risk in terms of probability. Exposure to an environmental health threat does not invariably produce a given consequence, rather it causes some probability of harm, a statistical chance that damage will result. To understand a health threat, a scientist must know more than just its identity and strength. He or she must also know the chance that one will encounter it, the frequency with which one may encounter it, the amount of substance or degree of threat to which one is exposed, and one's sensitivity to the threat. Such factors help determine the overall risk posed. Risk can be measured in terms of what's called probability, a quantitative description of the likelihood of a certain outcome. The probability that some harmful outcome, for instance injury, death, environmental damage, or economic loss, will result from a given action, event, or substance expressing the risk exposed by that phenomenon. Our perception of risk, though, may not match reality. Everything we do involves some level of risk. We try to minimize that risk, but perception may not match reality. For instance, most of us perceive flying in an airplane as riskier than driving a car, but statistically speaking, plane travel is actually much safer. We feel more at risk when we don't control a situation, so we fear nuclear power and toxic waste, but not smoking or overeating, though these voluntary activities are actually shown to pose far greater health risks. Risk assessment is the quantitative measure of risk. It compares risks involved in different activities or substances. It identifies and outlines problems. It helps determine which substances and activities pose health risks to people or wildlife. Risk assessment has several steps. The first steps involve the scientific study of toxicity that we've examined before, determining whether a substance has toxic effects, and through dose-response analysis, measuring how effects vary with the degree of exposure. Subsequent steps involve assessing the individual's or the population's likely extent of exposure to the substance, including frequency of contact, concentrations likely encountered, and the length of the encounter. Accurate risk assessment is an important step toward effective risk management. It consists of decisions and strategies to minimize risk. Federal agencies have helped us to manage risk. For instance, the U.S. has the Centers for Disease Control and Prevention, or the CDC, the EPA, or Environmental Protection Agency, and the FDA, or Food and Drug Administration. Scientific assessments are considered with economic, social, and political needs and values in risk management. Comparing costs and benefits can be hard. Benefits are economic and easy to calculate, but health risks or the costs are hard to measure, and probabilities of a few people suffering versus lots of people not suffering are hard to quantify. Risk assessment aids in risk management. The end result of risk management is a policy decision that minimizes the risk of environmental hazards. Two approaches exist for testing the safety of new products. For instance, the innocent until proven guilty approach can be employed. It assumes a substance is harmless until it's shown to be harmful. It promotes technological innovation and economic activity, but allows dangerous substances to be used. The precautionary principle is another. It assumes a substance is harmful until it's shown to be harmless. It identifies troublesome toxicants before they're released to the public and to consumers like you and me, but can impede the pace of technology and economic advancement. One might then ask, who should have to prove a product is safe? The manufacturers or government and citizens? European nations have recently embarked on a policy course that incorporates the precautionary principle, whereas the United States mostly follows the innocent until proven guilty approach. In the U.S., several federal agencies are assigned responsibility for tracking and regulating synthetic chemicals under various legislative acts. The FDA, or Food and Drug Administration, under an act first passed in 1938, monitors foods and food additives, cosmetics, drugs, and medical devices. The EPA, or Environmental Protection Agency, regulates pesticides under a 1947 act and its amendments. The Occupational Safety and Health Administration, or OSHA, regulates workplace hazards under a 1970 act. Several other agencies regulate other substances. Synthetic chemicals not covered by other laws are regulated by the EPA under the 1976 Toxic Substances Control Act, or the TSCA. Again, this act was incorporated in 1976. The EPA monitors chemicals made in or imported into the U.S., and the EPA can ban substances that pose excessive risk. Many health advocates think the TSCA is too weak, that industry screening is minimal, they want to push for more testing, and toxicity must already be proven, but testing is minimal. Only 10% of chemicals have been tested for toxicity, and fewer than 1% are regulated, and almost none have been tested for endocrine, nervous, or immune system damage. So they say the EPA regulation is only partly effective. A frequently asked question is, if the government allows a product to be sold in stores, isn't it safe? Just because a product is available to the public does not mean it poses no risk to consumers. Some dangerous products, like firearms and cigarettes, are recognized to be hazardous, and have restrictions placed on their purchase. Medicines, cosmetics, and some types of food undergo testing for safety prior to release, but other potentially dangerous products, like endocrine-disrupting chemicals and plastics, are not similarly tested. We've seen that the U.S. government's approach to regulation relies more heavily on the recall of products found to be dangerous, than on the testing of the products before they reach the market. Hence it would be a mistake to assume that the products you purchase have been thoroughly tested prior to their arrival on store shelves. The European Union, or the EU, is taking the world's boldest step toward testing and regulating manufactured chemicals. In 2007, the EU's REACH program went into effect. REACH stands for Registration, Evaluation, Authorization, and Restriction of Chemicals. It shifts the burden of proof for safety from the government to the industry. It requires that certain chemical substances produced or imported in amounts of over one metric ton per year be registered with a new European Chemicals Agency. The world's nations have also sought to address chemical pollution with international treaties. The Stockholm Convention on Persistent Organic Pollutants, or POPs, came into force in 2004 and has been ratified by over 150 nations. POPs are toxic chemicals that persist in the environment. They can bio-accumulate and bio-magnify up the food chain and can travel long distances. PCBs and other contaminants found in polar bears are a prime example of these POPs. Because these often cross international boundaries, an international treaty seemed to be the best way to deal with them fairly. The Stockholm Convention aims first to end the use and release of these 12 worst POPs, which are known as the Dirty Dozen. They're the most dangerous. It sets guidelines for phasing out these chemicals and encourages transition to safer alternatives. In conclusion, there's been international agreements that show that governments are working to protect society, wildlife, and ecosystems from toxic chemicals and environmental hazards, but solutions need to be more than government regulations. We found that consumer choice affects industries. Once scientific results are in, society's approach to risk management determines what policies are enacted. A safe and happy future depends on knowing the risks that some hazards pose and then replacing those hazards with safer ones.
